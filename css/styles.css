@@ -123,6 +123,17 @@ abbr[data-original-title] {
           text-decoration-skip-ink: none;
 }
 
+@media (min-width: 576px) {
+.brand-img{ 
+  width: auto;
+  max-height: 3em;
+  }
+}
+.brand-img{ 
+  width: auto;
+  max-height: 3em;
+}
+
 address {
   margin-bottom: 1rem;
   font-style: normal;
@@ -10363,5 +10374,5 @@ body {
 }
 
 .footer {
-  padding: 5rem 0;
+  padding: 1rem 0;
 }
