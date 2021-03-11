@@ -89,6 +89,28 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+.divider-custom {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divider-custom .divider-custom-line {
+  width: 100%;
+  max-width: 65rem;
+  height: 0.25rem;
+  background-color: #96803c;
+  border-radius: 1rem;
+  border-color: #96803c !important;
+}
+.divider-custom .divider-custom-line:first-child {
+  margin-right: 1rem;
+}
+.divider-custom-icon {
+  color: #96803c !important;
+  font-size: 2rem;
+}
 
 abbr[title],
 abbr[data-original-title] {
