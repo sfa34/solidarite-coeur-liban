@@ -6220,7 +6220,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #817258 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10290,33 +10290,32 @@ body {
   margin-bottom: 5rem;
 }
 
-.projects-section {
+.partenariat-section {
   padding: 10rem 0;
 }
-.projects-section .featured-text {
+.partenariat-section .featured-text {
   padding: 2rem;
 }
 @media (min-width: 992px) {
-  .projects-section .featured-text {
+  .partenariat-section .featured-text {
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #a6803c;
   }
 }
-.projects-section .project-text {
-  padding: 3rem;
+.partenariat-section .project-text {
+  padding: 2rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
-  .projects-section .project-text {
-    padding: 5rem;
+  .partenariat-section .project-text {
+    padding: 3rem;
   }
-  .projects-section .project-text hr {
+  .partenariat-section .project-text hr {
     border-color: #a6803c;
     border-width: 0.25rem;
     width: 30%;
   }
 }
-
 .signup-section {
   padding: 10rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/bg-signup.jpg");
