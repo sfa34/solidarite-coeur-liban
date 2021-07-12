@@ -10317,6 +10317,10 @@ body {
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #a6803c;
   }
+  .actions-section .featured-text {
+    padding: 0 0 0 2rem;
+    border-right: 0.5rem solid #a6803c;
+  }
 }
 .partenariat-section .project-text {
   padding: 2rem;
